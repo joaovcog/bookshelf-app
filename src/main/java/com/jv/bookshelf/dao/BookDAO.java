@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  *
- * @author joaov
+ * @author João Victor
  */
 public class BookDAO {
 

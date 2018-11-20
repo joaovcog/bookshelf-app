@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author joaov
+ * @author João Victor
  */
 public class Bookshelf {
     public static void main(String[] args) {
@@ -14,8 +14,8 @@ public class Bookshelf {
         
         List<Book> books = bookDAO.findAll();
         
-        for (Book b : books) {
+        books.forEach((b) -> {
             System.out.println(b);
-        }
+        });
     }
 }

@@ -2,7 +2,7 @@ package com.jv.bookshelf.connection;
 
 /**
  *
- * @author joaov
+ * @author João Victor
  */
 public class ConnectionException extends RuntimeException {
 

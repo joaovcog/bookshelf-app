@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author joaov
+ * @author João Victor
  */
 public class PgConnection {
 

@@ -2,7 +2,7 @@ package com.jv.bookshelf.dao;
 
 /**
  *
- * @author joaov
+ * @author João Victor
  */
 public class DAOException extends RuntimeException {
     

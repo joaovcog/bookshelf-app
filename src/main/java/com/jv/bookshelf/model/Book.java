@@ -5,7 +5,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author joaov
+ * @author João Victor
  */
 public class Book {
 
